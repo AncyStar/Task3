@@ -1,0 +1,29 @@
+body{
+    background-color: beige;
+}
+#grid{
+    width: 457px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid rgb(3, 91, 117);
+    margin: auto;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 110px;
+    margin: 5px;
+    border: 2px solid rgb(4, 168, 233);
+}
